@@ -5,7 +5,7 @@
 	const endpoint = 'https://rickandmortyapi.com/graphql';
 
 	/**
-	 * @type {any[]}
+	 * @type { import('../Character').default[] }
 	 */
 	let characters = [];
 
